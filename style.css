@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    justify-items: center;
+    
+}
+div {
+
+    height: 200px;
+    width:500px;
+    border:1px solid black;
+}
